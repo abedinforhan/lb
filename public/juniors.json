@@ -1,0 +1,38 @@
+[
+  {
+    "id": "121aa",
+    "name": "Andrea",
+    "img": "https://randomuser.me/api/portraits/med/women/70.jpg",
+    "partner": "ABCDx"
+  },
+  {
+    "id": "121bb",
+    "name": "Andrea",
+    "img": "https://randomuser.me/api/portraits/med/women/22.jpg",
+    "partner": "ABCD"
+  },
+  {
+    "id": "121cc",
+    "name": "Andrea",
+    "img": "https://randomuser.me/api/portraits/med/women/53.jpg",
+    "partner": "ABCDE"
+  },
+  {
+    "id": "121dd",
+    "name": "Andrea",
+    "img": "https://randomuser.me/api/portraits/med/women/70.jpg",
+    "partner": "ABCD"
+  },
+  {
+    "id": "121ee",
+    "name": "Andrea",
+    "img": "https://randomuser.me/api/portraits/med/women/70.jpg",
+    "partner": "ABCD"
+  },
+  {
+    "id": "121ff",
+    "name": "Andrea",
+    "img": "https://randomuser.me/api/portraits/med/women/70.jpg",
+    "partner": "ABCD"
+  }
+]
